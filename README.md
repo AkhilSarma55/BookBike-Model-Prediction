@@ -1,71 +1,52 @@
-# BookBike-Model-Prediction
-BookBikes Model Predriction 
-Boombikes-LinearRegression-Assignment
-Linear Regression performed on the Boombikes bike rental dataset as part of an assignment for coursework in the course Executive PG in Machine Learning and AI from IIIT Bangalore.
-
-Note :
-
-Run the jupyter notebook line by line
-
-General Information:
-
-1.Multiple linear regression is performed on the dataset.
-
-2.The project is done as part of coursework in the Machine Learning module.
-
-3.We are trying to find the number of rentals issued from the company based on numerous independent values such as temperature, weather, humidity, holiday, etc.
-
-4.The Boombikes bike rental dataset is being used.
-
-Conclusion:
-
-Significant variables to predict the demand for shared bikes
-
-1.holiday
+# Project Name
+> Outline a brief description of your project.
 
 
-2.temp
+## Table of Contents
+* [General Info](#general-information)
+* [Technologies Used](#technologies-used)
+* [Conclusions](#conclusions)
+* [Acknowledgements](#acknowledgements)
 
-3.hum
+<!-- You can include any other section that is pertinent to your problem -->
 
-4.windspeed
+## General Information
+- Provide general information about your project here.
+- What is the background of your project?
+- What is the business probem that your project is trying to solve?
+- What is the dataset that is being used?
 
-5.Season
+<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-6.months(January, July, September, November, December)
+## Conclusions
+- Conclusion 1 from the analysis
+- Conclusion 2 from the analysis
+- Conclusion 3 from the analysis
+- Conclusion 4 from the analysis
 
-7.Year (2019)
+<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-8.Sunday
 
-9.weathersit( Light Snow, Mist + Cloudy)
+## Technologies Used
+- library - version 1.0
+- library - version 2.0
+- library - version 3.0
 
-Recommendations:
+<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
-1.These interpretations help us derive meaningful insights in the bike rental market and the behaviour of the people.
+## Acknowledgements
+Give credit here.
+- This project was inspired by...
+- References if any...
+- This project was based on [this tutorial](https://www.example.com).
 
-2.One of the recommendations based on this model are that there should be aggressive marketing in the summer and spring season to drive up rentals.
 
-3.Since the summer months also show low rental levels, a strong marketing strategy for the first 6 months of the year can assist in driving up the rental numbers.
+## Contact
+Created by [@githubusername] - feel free to contact me!
 
-4.There has to be an approach required to introduce more users on days where the weather is less clear, perhaps with incentives or strategic deals.
 
-5.Rentals were more in 2019 than 2018 which suggests that over time more people would be exposed to this idea and there has to a strong analysis done to retain the repeat customers.
+<!-- Optional -->
+<!-- ## License -->
+<!-- This project is open source and available under the [... License](). -->
 
-Technologies Used:
-
-1.pandas
-
-2.seaborn
-
-3.matplotlib
-
-4.statsmodels
-
-5.sci-kit learn
-
-6.numpy
-
-By
-
-Akhil Sarma
+<!-- You don't have to include all sections - just the one's relevant to your project -->
